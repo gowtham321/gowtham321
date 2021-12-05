@@ -6,7 +6,7 @@
 
 - 🏢 I'm currently studying at **Sri Sai Ram Institute of Technologyl**
 - ⚙️ I mostly use: `.swift`, `.py`
-- ✨ I sometimes use: 'Wordpress', '.java', '.c'
+- ✨ I sometimes use: `.java`, `.c`, `Wordpress`
 - 🌍 I love **SwiftUI**
 - 🌱 Learning all about **Technology**
 - ⚡️ Fun fact: I've watched every Harry Potter movie atleast three times😅
