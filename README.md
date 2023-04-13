@@ -10,4 +10,4 @@
 - 🌍 I love **SwiftUI**
 - 🌱 Learning all about **Technology**
 - ⚡️ Fun fact: I've watched every Harry Potter movie atleast three times😅
-- 🌐 Checkout my porfolio website [here](https://gowtham.info")
+- 🌐 Checkout my porfolio website [here](https://gowtham.info)
